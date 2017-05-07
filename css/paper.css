@@ -1,0 +1,8 @@
+
+#main {
+  /** mainのスタイルを指定 */
+  width: 800px; /**幅*/
+  height: 800px; /** 高さ */
+  border: solid 1px blue; /** 実線 1ピクセルの幅 青*/
+
+}
